@@ -1,0 +1,43 @@
+body
+{
+	width:100%;
+	height:100%;
+	margin:0 auto;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+#top-line
+{
+	height:4px;
+	width:100%;
+	background:#048b20;
+	margin:0 auto;
+}
+
+#logo-wrapper
+{
+	height:85px;
+	width:100%;
+	background:#ffffff;
+	margin:0 auto;
+	border-bottom:1px solid #dedfe0;
+
+}
+
+#logo
+{
+	width:990px;
+	height:auto;
+	margin:0 auto;
+	padding-top:1px;
+	padding-left:10px
+}
+#main-wrapper
+{
+	width:100%;
+	height:506px;
+	margin:0 auto;
+	/*background-image:url(../assets/images/main-wrap-bg.jpg); */
+	background-repeat:no-repeat;
+}
