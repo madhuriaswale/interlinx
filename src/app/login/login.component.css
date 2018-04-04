@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+
+*
+{
+	margin:0px;
+	padding:0px;
+}
+a
+{
+	text-decoration:none;
+	outline:none;
+	color:#919292;
+}
+ul, li
+{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+
+.blue
+{
+	color:#16375d;
+}
+.green
+{
+	color:#048b20;
+}
+.fleft
+{
+	float:left;
+}
+.fright
+{
+	float:right;
+}
+
+#sss
+{
+	position:absolute;
+	background:url(../../assets/images/sss.png);
+	width:120px;
+	height:94px;
+	z-index:1;
+	margin-top:378px;
+	margin-left:140px;
+}
+#inner
+{
+	width:1000px;
+	height:506px;
+	margin:0 auto;
+	background-image:url(../../assets/images/inner-bg12.png);
+	background-repeat:no-repeat;
+}
+#login-window
+{
+	width:368px;
+	height:452px;
+	padding-top:110px;
+	background:url(../../assets/images/login-window.png);
+	background-repeat:no-repeat;
+	margin:0px auto;
+}
+.login-win-inner
+{
+	width:344px;
+	height:auto;
+	margin:0 auto;
+}
+.card-logo
+{
+	margin:0 auto;
+	width:324px;
+	height:78px;
+	text-align:center;
+	/*background:#007946;*/
+}
+.member-login
+{
+	margin:0 auto;
+	width:324px;
+	
+}
+.mbr-lgn
+{
+	font-size:22px;
+	padding-top:22px;
+	margin:0px;
+	color:#727272;
+	
+}
+.inputs
+{
+	margin:0 auto;
+	width:324px;
+	color:#777777;
+	height:112px;
+	padding-left:5px;
+}
+.uname
+{
+	background:url(../../assets/images/username.png);
+	background-repeat:no-repeat;
+	/*width:276px;*/
+	width:306px;
+	height:43px;
+	border:0px solid;
+	padding-left:10px;
+	/*padding-right:100px;*/
+	color:#777777;
+	margin:0 auto;
+}
+.pass
+{
+	background:url(../../assets/images/pass.png);
+	background-repeat:no-repeat;
+	width:306px;
+	height:43px;
+	border:0px solid;
+		padding-left:10px;
+		color:#777777;
+		/*padding-right:100px;*/
+		margin:0 auto;
+}
+
+
+.btm
+{
+	margin:0 auto;
+	width:314px;
+	font-weight:bold;
+	font-size:13px;
+}
+.btm ul
+{
+	margin-top:10px;
+	color:#777777;
+}
+.btm ul li
+{
+	display:inline;
+	text-align:center;
+	font-size:11px;
+}
+.in-btn
+{
+	border:1px solid #cccccc;
+	background:#f3f3f3;
+	border-radius:3px;
+	padding:6px 12px;;
+	color:#444444;
+	font-weight:bold;
+}
+.in-btn:hover
+{
+	background:#e5e5e5;
+}
+
+
+
+.btn-let-me
+{
+	margin-top:10px;
+	margin-right:10px;
+}
+.cpryt
+{
+	float:left;
+	padding:12px;
+}
+.devlpr
+{
+	float:right;
+	padding:12px;
+}
+
+.devlpr a
+{
+color:#2d384f;
+}
+.devlpr a:hover
+{
+color:#909191;
+}
